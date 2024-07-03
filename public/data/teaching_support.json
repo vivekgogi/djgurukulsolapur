@@ -1,0 +1,356 @@
+{
+  "high_school_section": [
+    {
+      "SR. NO.": 1,
+      "NAME": "Shri Shah A M",
+      "DESIGNATION": "Principal",
+      "EDUCATIONAL QUALIFICATION": "M.Com., M.P.Ed., DSM"
+    },
+    {
+      "SR. NO.": 2,
+      "NAME": "Shri. Pangal S.J.",
+      "DESIGNATION": "Vice Principal",
+      "EDUCATIONAL QUALIFICATION": "B.Sc., B.Ed., DSM"
+    },
+    {
+      "SR. NO.": 3,
+      "NAME": "Shri. Kale R.S.",
+      "DESIGNATION": "Supervisor",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed., DSM"
+    },
+    {
+      "SR. NO.": 4,
+      "NAME": "Shri. Pandit S.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.Sc., B.P.Ed."
+    },
+    {
+      "SR. NO.": 5,
+      "NAME": "Shri. Mali S.A.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed."
+    },
+    {
+      "SR. NO.": 6,
+      "NAME": "Shri. Bhasme S.C.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.Sc., B.Ed."
+    },
+    {
+      "SR. NO.": 7,
+      "NAME": "Shri. Nagrase S.C.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.Sc., M.Ed."
+    },
+    {
+      "SR. NO.": 8,
+      "NAME": "Shri. Kasture P.P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed."
+    },
+    {
+      "SR. NO.": 9,
+      "NAME": "Shri. Kalegore V.B.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed."
+    },
+    {
+      "SR. NO.": 10,
+      "NAME": "Shri. Katkar P.A.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A., B.P.Ed."
+    },
+    {
+      "SR. NO.": 11,
+      "NAME": "Shri. Gandhi T.R.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed."
+    },
+    {
+      "SR. NO.": 12,
+      "NAME": "Shri. Upase S.P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.Sc., B.P.Ed."
+    },
+    {
+      "SR. NO.": 13,
+      "NAME": "Shri. Khobare M.N.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed."
+    },
+    {
+      "SR. NO.": 14,
+      "NAME": "Shri. Shivsharan R.L.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "S.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 15,
+      "NAME": "Shri. Kaldhone D.G.",
+      "DESIGNATION": "Music Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A., Sangeet Visharadü"
+    },
+    {
+      "SR. NO.": 16,
+      "NAME": "Shri. Dahale J.V.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 17,
+      "NAME": "Shri. Ashtekar S.K.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A., D.Ed."
+    },
+    {
+      "SR. NO.": 18,
+      "NAME": "Shri. Magdum B.M.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 19,
+      "NAME": "Mrs. Durge T.U.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 20,
+      "NAME": "Mrs. Manikshete T.R..",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 21,
+      "NAME": "Mrs. Shah R.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.Sc., B.Ed."
+    },
+    {
+      "SR. NO.": 22,
+      "NAME": "Shri. Manikshete P.B.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., M.Ed."
+    },
+    {
+      "SR. NO.": 23,
+      "NAME": "Shri. Savle T.P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., B.Ed."
+    },
+    {
+      "SR. NO.": 24,
+      "NAME": "Mrs. Patil V. P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A.B.Ed."
+    },
+    {
+      "SR. NO.": 25,
+      "NAME": "Mrs. Kalegore P.V.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A.B.Ed."
+    },
+    {
+      "SR. NO.": 26,
+      "NAME": "Shri. Kulkarni P.P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.Sc.B.Ed."
+    },
+    {
+      "SR. NO.": 27,
+      "NAME": "Shri. Shah S. A.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    }
+  ],
+  "teaching_and_nonteaching_staff": [
+    {
+      "SR.NO.": 1,
+      "NAME": "Shri Moholkar R.B.",
+      "DESIGNATION": "Jr. Lecturer",
+      "EDUCATIONAL QUALIFICATION": "D.M.E, D.B.M., C.C.I.T"
+    },
+    {
+      "SR.NO.": 2,
+      "NAME": "Shri Alat P.D.",
+      "DESIGNATION": "Instructor",
+      "EDUCATIONAL QUALIFICATION": "D.E.E., C.C.I.T."
+    }
+  ],
+  "vocational_section": [
+    {
+      "SR.NO.": 1,
+      "NAME": "Shri Mali P. L.",
+      "DESIGNATION": "Full Time Teacher",
+      "EDUCATIONAL QUALIFICATION": "B. E. Mechanical, D.A.E."
+    },
+    {
+      "SR.NO.": 2,
+      "NAME": "Shri. Doshi A. A.",
+      "DESIGNATION": "Instructor",
+      "EDUCATIONAL QUALIFICATION": "D.M.E., D.A.E."
+    },
+    {
+      "SR.NO.": 3,
+      "NAME": "Shri Aland M.S.",
+      "DESIGNATION": "Jr. Clerk",
+      "EDUCATIONAL QUALIFICATION": "B.Com. C.C.C.O.with M.S.Off."
+    }
+  ],
+  "office_staff": [
+    {
+      "SR.NO.": 1,
+      "NAME": "Shri Mahajan R.V.",
+      "DESIGNATION": "Sr. Clerk",
+      "EDUCATIONAL QUALIFICATION": "B.Com., D.C.M."
+    },
+    {
+      "SR.NO.": 2,
+      "NAME": "Shri Mohare A.D.",
+      "DESIGNATION": "Jr. Clerk",
+      "EDUCATIONAL QUALIFICATION": "B.Com., C.C.C.O. with M.S. Off."
+    },
+    {
+      "SR.NO.": 3,
+      "NAME": "Shri Shirshad A.S.",
+      "DESIGNATION": "Jr. Clerk",
+      "EDUCATIONAL QUALIFICATION": "B.Com."
+    },
+    {
+      "SR.NO.": 4,
+      "NAME": "Shri Sonwale S.M.",
+      "DESIGNATION": "Peon",
+      "EDUCATIONAL QUALIFICATION": ""
+    },
+    {
+      "SR.NO.": 5,
+      "NAME": "Shri Koli G.D.",
+      "DESIGNATION": "Peon",
+      "EDUCATIONAL QUALIFICATION": ""
+    }
+  ],
+  "primary_section": [
+    {
+      "SR. NO.": 1,
+      "NAME": "Shri Mehta S.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "M.A., D.Ed./ B.Ed."
+    },
+    {
+      "SR. NO.": 2,
+      "NAME": "Mrs. Zunjurde P.V.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 3,
+      "NAME": "Miss. Zarekar S.R.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 4,
+      "NAME": "Miss. Mandavegade M.N.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.Sc., D.Ed./ B.Ed."
+    },
+    {
+      "SR. NO.": 5,
+      "NAME": "Shri Paricharak V.V.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 6,
+      "NAME": "Miss. Todkari R.B.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 7,
+      "NAME": "Shri Jamalpure A.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 8,
+      "NAME": "Shri Mehta P.P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 9,
+      "NAME": "Shri Awane P.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 10,
+      "NAME": "Miss. Kharat S.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 11,
+      "NAME": "Miss. Tadkal P. D.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 12,
+      "NAME": "Mr. Mahajan C. P.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C., D.Ed."
+    },
+    {
+      "SR. NO.": 13,
+      "NAME": "Sou. Chakre V.R.",
+      "DESIGNATION": "Sevika",
+      "EDUCATIONAL QUALIFICATION": "S.S.C."
+    }
+  ],
+  "balak_mandir_section": [
+    {
+      "SR.NO.": 1,
+      "NAME": "Mrs. Randive V.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.Com. Montessori"
+    },
+    {
+      "SR.NO.": 2,
+      "NAME": "Mrs. Mehta S. S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A. B.Ed."
+    },
+    {
+      "SR.NO.": 3,
+      "NAME": "Mrs. Benurkar S.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C. Montessori"
+    },
+    {
+      "SR.NO.": 4,
+      "NAME": "Mrs. Randive S.D.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "H.S.C. Montessori"
+    },
+    {
+      "SR.NO.": 5,
+      "NAME": "Mrs. Tandale N.S.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "B.A.I Montessori"
+    },
+    {
+      "SR.NO.": 6,
+      "NAME": "Miss. Tate S.K.",
+      "DESIGNATION": "Asst. Teacher",
+      "EDUCATIONAL QUALIFICATION": "S.S.C. Montessori"
+    },
+    {
+      "SR.NO.": 7,
+      "NAME": "Mrs. Taddiwadi G.R.",
+      "DESIGNATION": "Sevika",
+      "EDUCATIONAL QUALIFICATION": ""
+    }
+  ]
+}
